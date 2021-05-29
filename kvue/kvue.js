@@ -158,7 +158,7 @@ $mount(el){
     const vnode = render.call(this, this.$createElemnt)
     this._update()
   }
-  2.
+  // 2.
 }
 
 $createElemnt(tag, data, children){
